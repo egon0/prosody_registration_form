@@ -12,5 +12,5 @@ $config = array(
     'localhost',
     'localhost2',
   ),
-  'url' => 'https://localhost',
+  'url' => 'https://localhost/',
 );
